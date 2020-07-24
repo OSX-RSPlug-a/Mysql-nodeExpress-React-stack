@@ -3,8 +3,8 @@ Docker compose boilerplate
 
 Dependencies:
 
-   docker;
-   docker-compose;
+      - docker;
+      - docker-compose;
 
 
 Run the project:
